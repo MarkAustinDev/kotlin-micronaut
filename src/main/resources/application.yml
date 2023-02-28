@@ -1,7 +1,15 @@
 micronaut:
   application:
     name: kotlinMicronaut
+  http:
+    services:
+      ergast:
+        url: "http://ergast.com"
+ergast:
+  organization: micronaut-projects
+  repo: micronaut-core
 netty:
   default:
     allocator:
       max-order: 3
+

@@ -10,7 +10,5 @@ private class HelloController {
 
     @Get
     @Produces(MediaType.TEXT_PLAIN)
-     fun index(): String {
-        return "hello world"
-    }
+     fun index() = "hello world"
 }
