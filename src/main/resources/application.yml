@@ -1,6 +1,6 @@
 micronaut:
   application:
-    name: kotlinMicronaut
+    name: kotlinMicronautF1
   http:
     services:
       ergast:

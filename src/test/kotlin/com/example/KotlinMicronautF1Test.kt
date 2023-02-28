@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test
 import jakarta.inject.Inject
 
 @MicronautTest
-class KotlinMicronautTest {
+class KotlinMicronautF1Test {
 
     @Inject
     lateinit var application: EmbeddedApplication<*>

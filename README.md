@@ -43,6 +43,7 @@ it only emits a single onError() signal.
 - [API Reference](https://docs.micronaut.io/3.8.6/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/3.8.6/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
+- [Micronaut HTTP Client](https://guides.micronaut.io/latest/micronaut-http-client-gradle-kotlin.html)
 ### Feature http-client documentation
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
